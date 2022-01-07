@@ -18,9 +18,11 @@ Soubriet Byrne & Associates 🏢
    Circulated frequently via newsletters to clients, business partners, and vendors.
 
 2) Rune Generator — https://www.projects.sba-nyc.com/rune-generator/
+   
    Front end application giving users a reading using randomly generated Nordic runes. Circulated during the holidays to clients, business partners and vendors.
 
 3) American Express Video Guidelines — https://www.projects.sba-nyc.com/amex/
+   
    Volunteered to recreate a WordPress website with HTML, CSS and JavaScript. Built in 2 hours, the day before client presentation. 
    Initial WP website took 2 weeks to curate by the creative team, but abandoned due to lack of customization options.
 
@@ -29,18 +31,19 @@ Soubriet Byrne & Associates 🏢
 
 Fullstack Academy 🏫
 1) Dinner Party - http://www.dinner-party-2020.herokuapp.com/ & https://www.youtube.com/watch?v=fdJdm2a7DS8
+   
    Full stack application allowing users to organize events with friends, and curate a menu using in-app recipes. 
    Implemented responsiveness, authentication, assigning recipes to favorites & events, paginated & filtered search function (users and recipes), 
    and ability to search recipes by uploading pictures of ingredients.
    
 2) What The F...ace? — https://whattheface.herokuapp.com
+   
    Webcam application utilizing TensorFlow.js to apply filters to the nose and ears.
 
 3) Dijkstra Visualizer — http://www.codepen.io/giantqtipz/full/YzVvqNM
+   
    Visualizer of Dijkstra’s algorithm, built as a personal challenge while learning basic Algorithms & Data Structures. 
    Built with HTML, CSS and vanilla JavaScript.
 
 I would love to connect and learn of any new opportunities, and share more of my story. Feel free to reach out on www.linkedin.com/in/abimanyusaridjo
-
-Talk soon!
 
