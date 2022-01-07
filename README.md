@@ -13,6 +13,7 @@ Although I am entry level, I have volunteered to build projects for my company. 
 
 Soubriet Byrne & Associates 🏢
 1) SBA Cocktails - https://cocktails.sba-nyc.com/
+
    Full stack application showcasing cocktail recipes curated by employees of SBA. 
    Circulated frequently via newsletters to clients, business partners, and vendors.
 
