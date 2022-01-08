@@ -7,9 +7,9 @@ My tech stacks include: 💻
 - Back-End: Node, Express, Sequelize, PostgreSQL, MySQL
 - Misc: Webpack, Git, Github, Travis CI, Jasmine
 
-Since I currently work as an analyst in online advertising, I also have experiences with SEO, Google Analytics, and web traffic optimization.
+Since I currently work as an analyst in online advertising, I have experiences with SEO, Google Analytics, and web performance & traffic monitoring tools.
 
-Although I am entry level, I have volunteered to build projects for my company. Below are some of works 😊
+Although I am an entry level software engineer, I have volunteered many projects for my employer. Below are some of my works 😊
 
 Soubriet Byrne & Associates 🏢
 1) SBA Cocktails - https://cocktails.sba-nyc.com/
