@@ -1,4 +1,4 @@
-Hi, I’m @giantqtipz! welcome to my GitHub page! 👋 
+Hi, I’m Bima welcome to my GitHub page! 👋 You can also find at www.linkedin.com/in/abimanyusaridjo!
 
 I’m an alumni of Fullstack Academy, and seeking to career switch into Software Engineering & Web Development 👀 
 
