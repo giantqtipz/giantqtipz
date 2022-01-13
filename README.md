@@ -1,6 +1,6 @@
 Hi, I’m Bima welcome to my GitHub page! 👋 You can also find at www.linkedin.com/in/abimanyusaridjo!
 
-I’m an alumni of Fullstack Academy, and seeking to career switch into Software Engineering & Web Development 👀 
+I’m an alumni of Fullstack Academy, a bootcamp specializing in Software Engineering & Web Development 👀 
 
 My tech stacks include: 💻
 - Front-End: React, React-Native, Redux, TypeScript, HTML, CSS (Mobile-First/Responsive), JavaScript
