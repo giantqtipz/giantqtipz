@@ -1,4 +1,4 @@
-Hi, I’m Bima welcome to my GitHub page! 👋 You can also find at www.linkedin.com/in/abimanyusaridjo!
+Hi, I’m Bima, and welcome to my GitHub page! 👋 You can also find me at www.linkedin.com/in/abimanyusaridjo!
 
 I’m an alumni of Fullstack Academy, a bootcamp specializing in Software Engineering & Web Development 👀 
 
