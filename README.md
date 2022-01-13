@@ -45,5 +45,5 @@ Fullstack Academy 🏫
    Visualizer of Dijkstra’s algorithm, built as a personal challenge while learning basic Algorithms & Data Structures. 
    Built with HTML, CSS and vanilla JavaScript.
 
-I would love to connect and learn of any new opportunities, and share more of my story. Feel free to reach out on www.linkedin.com/in/abimanyusaridjo
+I would love to connect and to collaborate. Feel free to reach out on www.linkedin.com/in/abimanyusaridjo
 
