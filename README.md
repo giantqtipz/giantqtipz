@@ -7,9 +7,7 @@ My tech stacks include: 💻
 - Back-End: Node, Express, Sequelize, PostgreSQL, MySQL
 - Misc: Webpack, Git, Github, Travis CI, Jasmine
 
-I currently work as a planner & analyst in digital advertising, and also have experiences with SEO, Google Analytics, and web performance & traffic monitoring tools.
-
-Check out some of my works below 😊
+Check out some of my works below!
 
 Soubriet Byrne & Associates 🏢
 1) SBA Cocktails - https://cocktails.sba-nyc.com/
