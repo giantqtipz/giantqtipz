@@ -1,4 +1,4 @@
-Hi, I’m Bima, and welcome to my GitHub page! 👋 You can also find me at www.linkedin.com/in/abimanyusaridjo!
+Hi, I’m Bima, and welcome to my GitHub page! 👋
 
 I’m an alumni of Fullstack Academy, a bootcamp specializing in Software Engineering & Web Development 👀 
 
@@ -43,5 +43,4 @@ Fullstack Academy 🏫
    Visualizer of Dijkstra’s algorithm, built as a personal challenge while learning basic Algorithms & Data Structures. 
    Built with HTML, CSS and vanilla JavaScript.
 
-I would love to connect and to collaborate. Feel free to reach out on www.linkedin.com/in/abimanyusaridjo
-
+I would love to connect and to collaborate.
