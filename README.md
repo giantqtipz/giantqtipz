@@ -1,4 +1,4 @@
-Hi, I’m Bima, and welcome to my GitHub page! 👋
+Hi, welcome to my GitHub page! 👋
 
 I’m an alumni of Fullstack Academy, a bootcamp specializing in Software Engineering & Web Development 👀 
 
